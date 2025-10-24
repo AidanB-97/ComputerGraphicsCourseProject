@@ -4,5 +4,7 @@ The code I took from online was to get the game to be playable as I do not have 
 
 Shuaiyan: Made all the shaders
 
+The game wouldn't upload to the repository so here is a google drive link to the playable build: https://drive.google.com/drive/folders/1iFbru9t37rzYPk8126CswmXmG1DuqV1S?usp=sharing
+
 https://youtu.be/bLnMYwGdmZg?si=MEKGqH-VdjbhwSXR
 https://docs.google.com/presentation/d/1CK41K8oP6YzZBeC3ePbSbAmBC7c2Vt5v_P1eTZGUork/edit?usp=sharing
